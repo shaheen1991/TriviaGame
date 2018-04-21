@@ -1,0 +1,76 @@
+
+   .jumbotron {
+	box-sizing: border-box;
+	height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+  }
+
+  .jumbotron p {
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: 300;
+  }
+  
+  .main-button-container {
+	margin-top: 175px;
+	max-width: 610px;
+	margin-left: auto;
+  margin-right: auto;
+  }
+  
+  .timer-p {
+	margin-top: 40px;
+  }
+  
+  .answer:hover {
+	background: pink;
+  }
+  
+  .answer {
+	padding-top: 7px;
+	height: 45px;
+	color: black;
+	padding-left: 14px;
+	background-color: white;
+	border-radius: 4px;
+  }
+  
+  .img-wrong {
+	margin-top: 40px;
+  }
+  
+  .first-answer {
+	margin-top: 40px;
+  }
+  
+  .reset-button {
+	margin-top: 40px;
+  }
+  
+  .summary-correct {
+	margin-top: 40px;
+  }
+  
+  body {
+  background: url('../images/world.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+	color: white;
+  }
+
+  .text-center {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  p {
+    background-color: rgba(255, 0, 0, 0.664);
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  h1 {
+    background-color: rgba(255, 0, 0, 0.664);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
