@@ -2,7 +2,12 @@
    .jumbotron {
 	box-sizing: border-box;
 	height: 600px;
-  background-color: rgba(0, 0, 0, 0);
+  background: url('../images/world.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  color: white;
   }
 
   .jumbotron p {
@@ -57,7 +62,7 @@
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-	color: white;
+  color: white;
   }
 
   .text-center {
